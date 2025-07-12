@@ -2,7 +2,7 @@
 	"name": "snehasaleslanding_zone",
 	"type": "Microsoft.DataFactory/factories/linkedservices",
 	"properties": {
-		"description": "Linked service for sales landing zone.",
+		"description": "Linked service for sales landing zone..",
 		"annotations": [],
 		"type": "AzureBlobStorage",
 		"typeProperties": {
