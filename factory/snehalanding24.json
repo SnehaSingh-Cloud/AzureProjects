@@ -1,0 +1,9 @@
+{
+	"name": "snehalanding24",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2034a2fd-5d01-41b6-bde0-fd3617404e99",
+		"tenantId": "49583925-aea2-40fa-a10c-72cc51af0d1b"
+	}
+}
