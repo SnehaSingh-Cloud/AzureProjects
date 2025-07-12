@@ -47,7 +47,7 @@
 			"type": "Microsoft.DataFactory/factories/linkedServices",
 			"apiVersion": "2018-06-01",
 			"properties": {
-				"description": "Linked service for sales landing zone.",
+				"description": "Linked service for sales landing zone..",
 				"annotations": [],
 				"type": "AzureBlobStorage",
 				"typeProperties": {
